@@ -106,7 +106,7 @@ function add(num1, num2) {
 
 - The best way of viewing the markdown files is to use this website https://dillinger.io
 
-- And, i use the extension in the vs code
+- And, i use this vscode extension to view the markdown files
 
 > Auto-Open Markdown
 
